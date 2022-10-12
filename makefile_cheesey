@@ -1,0 +1,3 @@
+controller: controller.cpp
+	g++ -g controller.cpp -lpthread -o controller
+	
