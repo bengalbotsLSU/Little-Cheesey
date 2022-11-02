@@ -1,3 +1,12 @@
+/*
+This code is for the RoboRio board. As such, there are a few naming conventions, libraries, and class names that require pre-requisite 
+knowledge to fully understand. Any information surrounding this can be found on WPILIB's website: https://docs.wpilib.org/en/stable/index.html 
+
+Additionally, if you wanted to run this you would have to download the WPILIB (College who made the software) version of vs-code and there are 
+additional JSON and initialization files that would be automatically created. Other than that, though, this is the main CPP file for the basic drive 
+controls with a ps4 controller and 2 motors. 
+*/
+
 // Libraries:-------------------------------------------------------------------
 
 #include <frc/TimedRobot.h> // Robot Project Type.
